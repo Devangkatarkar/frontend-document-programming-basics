@@ -6,9 +6,10 @@ function App() {
       <div className="section">
         <h2>About</h2>
         <p>
-          This webpage is built using HTML, CSS, JavaScript, and basic React.
-          It presents my understanding of Python, Java, and JavaScript
-          fundamentals in a structured and readable format.
+          Hey Devang Katarkar here and this is a webpage that summarizes all my knowledge of programming
+          fundamentals in three popular programming languages: JavaScript, Python, and Java.
+          This is page is made with the help of HTML, CSS, JavaScript, and basic React.<br></br>
+          Hope you find it useful!
         </p>
       </div>
 

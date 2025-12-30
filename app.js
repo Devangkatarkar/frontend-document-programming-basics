@@ -6,9 +6,9 @@ function App() {
       <div className="section">
         <h2>About</h2>
         <p>
-          Hey Devang Katarkar here and this is a webpage that summarizes all my knowledge of programming
+          Hey Devang Katarkar here, and this is a webpage that summarizes all my knowledge of programming
           fundamentals in three popular programming languages: JavaScript, Python, and Java.
-          This is page is made with the help of HTML, CSS, JavaScript, and basic React.<br></br>
+          This page is made with the help of HTML, CSS, JavaScript, and basic React.<br></br>
           Hope you find it useful!
         </p>
       </div>
@@ -67,7 +67,7 @@ function App() {
 </div>
 
       <footer>
-        <p>Built using HTML, CSS, JavaScript, and basic React</p>
+        <p>Made by Devang<br></br>Built using HTML, CSS, JavaScript, and basic React</p>
       </footer>
     </div>
   );
